@@ -1,0 +1,5 @@
+{
+  "name": "Zen Chess AI",
+  "description": "A minimalist, solid-color chess game powered by Gemini AI with three difficulty levels and smooth animations.",
+  "requestFramePermissions": []
+}
